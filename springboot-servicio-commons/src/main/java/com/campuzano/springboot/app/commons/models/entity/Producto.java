@@ -1,4 +1,4 @@
-package com.campuzano.app.productos.models.entity;
+package com.campuzano.springboot.app.commons.models.entity;
 
 import java.io.Serializable;
 import java.util.Date;
